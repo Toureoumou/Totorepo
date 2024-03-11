@@ -1,10 +1,10 @@
 one 
-two
+red
 three
 four 
-five 
-six
+blue 
+orange
 seven
-eight
+yellow
 nine 
-ten 
+green 
